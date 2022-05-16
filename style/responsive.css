@@ -1,0 +1,41 @@
+@media screen and (max-width:700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .botao{
+        margin-top: 5px;
+        width: 190px ;
+        height: 300;
+    }
+    .botoes{
+        margin-top: 5px;
+        width: 190px ;
+        height: 300;
+    
+    }
+    .desc{
+        margin-top: 140px;
+    }
+
+
+
+}
+
+@media screen and (min-width: 700px){
+    .correio1{
+        width: 35%
+        
+    }
+}
+@media screen and (min-width: 1000px){
+
+    .desc{
+        width: 100%;
+    }
+
+}
+
+
